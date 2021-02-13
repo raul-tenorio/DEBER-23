@@ -1,0 +1,14 @@
+
+
+INTERCAMBIAR POSICIONES DE UN VECTOR
+------------------------------------
+Elemento de la posición #1: 6
+Elemento de la posición #2: 5
+Elemento de la posición #3: 4
+Elemento de la posición #4: 3
+Elemento de la posición #5: 2
+Elemento de la posición #6: 1
+
+Vector original: [6][5][4][3][2][1]
+Vector intercambiado: [1][2][3][4][5][6]
+------------------------------------

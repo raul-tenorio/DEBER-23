@@ -1,0 +1,18 @@
+
+
+ORDENAMIENTO DE UN VECTOR
+-------------------------
+Tamaño del vector: 9
+Valor de la posición #1: 2
+Valor de la posición #2: 4
+Valor de la posición #3: 3
+Valor de la posición #4: 1
+Valor de la posición #5: 6
+Valor de la posición #6: 5
+Valor de la posición #7: 8
+Valor de la posición #8: 7
+Valor de la posición #9: 9
+
+Vector original: [2][4][3][1][6][5][8][7][9]
+Vector ordenado: [1][2][3][4][5][6][7][8][9]
+-------------------------

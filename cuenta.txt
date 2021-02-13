@@ -1,0 +1,21 @@
+
+
+CUENTA DE AHORROS BANCO PICHINCHA
+---------------------------------
+Ahorros de Enero: 100
+Ahorros de Febrero: 110
+Ahorros de Marzo: 120
+Ahorros de Abril: 130
+Ahorros de Mayo: 140
+Ahorros de Junio: 150
+Ahorros de Julio: 160
+Ahorros de Agosto: 170
+Ahorros de Septiembre: 180
+Ahorros de Octubre: 190
+Ahorros de Noviembre: 200
+Ahorros de Diciembre: 210
+
+Cantidad de dinero a buscar: 170
+
+La cantidad de ahorro $170 se ha encontrado en el mes de Agosto.
+---------------------------------
